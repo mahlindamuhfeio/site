@@ -18,13 +18,13 @@ p {
 
 #missao {
     font-size: 20px
-}￼COPIAR CÓDIGO
-5) Ainda no arquivo style.css, altere a largura da imagem:
+}
+ Ainda no arquivo style.css, altere a largura da imagem:
 
 #banner {
     width: 100%;
-}￼COPIAR CÓDIGO
-6) O CSS completo ficará da seguinte forma:
+
+ O CSS completo ficará da seguinte forma:
 
 body {
     background: #CCCCCC
@@ -37,6 +37,18 @@ body {
 <p style="font-size: 20px"><em>Nossa missão é: <strong>"Proporcionar auto-estima e qualidade de vida aos clientes"</strong>.</em></p>
 
 <p>Oferecemos profissionais experientes e antenados às mudanças no mundo da moda.O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
+
+ <h2>Benefícios</h2> 
+  
+  
+<ul>
+<li class=>Atendimento aos clientes</li>
+<li>Esço diferenciado</li>
+<li>Localição</li>
+<li>Profissionais Qualificados</li>
+</ul>
 </body>
-</html>
+</html>   
+   
+   
  
