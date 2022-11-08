@@ -42,10 +42,10 @@ body {
   
   
 <ul>
-<li class=>Atendimento aos clientes</li>
-<li>Esço diferenciado</li>
-<li>Localição</li>
-<li>Profissionais Qualificados</li>
+<li class="itens">Atendimento aos clientes</li>
+<li class="itens">Esço diferenciado</li>
+<li class="itens">Localição</li>
+<li class="itens">Profissionais Qualificados</li>
 </ul>
 </body>
 </html>   
